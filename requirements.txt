@@ -1,5 +1,5 @@
 # Ensure exact name: requirements.txt
-echo pandas > requirements.txt
-echo numpy >> requirements.txt
-echo scikit-learn >> requirements.txt
-echo streamlit >> requirements.txt
+echo pandas
+echo numpy 
+echo scikit-learn 
+echo streamlit 
